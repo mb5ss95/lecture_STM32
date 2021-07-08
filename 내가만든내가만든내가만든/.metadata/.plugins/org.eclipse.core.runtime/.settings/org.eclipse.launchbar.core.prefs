@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MoonsProject Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_6 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIMER_TWO Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART_RECEIVE Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART_RECEIVE_NUM Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART_test Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:lec_10 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:lec_10_2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:printf_5 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:scanf_5 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:testttttttttt Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:lec12 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:New_Project Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_7 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DMA_9 Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_7\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_7\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MoonsProject\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MoonsProject\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:New_Project\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:lec_10\ Debug/activeLaunchMode=debug

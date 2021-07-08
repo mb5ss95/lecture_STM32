@@ -1,0 +1,10 @@
+00:26:08 **** Incremental Build of configuration Debug for project lec7 ****
+make -j12 all 
+arm-none-eabi-size   lec7.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8084	     20	   1636	   9740	   260c	lec7.elf
+Finished building: default.size.stdout
+ 
+
+00:26:09 Build Finished. 0 errors, 0 warnings. (took 551ms)
+

@@ -1,0 +1,10 @@
+00:26:13 **** Incremental Build of configuration Debug for project scanf_5 ****
+make -j12 all 
+arm-none-eabi-size   scanf_5.elf 
+   text	   data	    bss	    dec	    hex	filename
+  34612	    484	   1660	  36756	   8f94	scanf_5.elf
+Finished building: default.size.stdout
+ 
+
+00:26:13 Build Finished. 0 errors, 0 warnings. (took 499ms)
+

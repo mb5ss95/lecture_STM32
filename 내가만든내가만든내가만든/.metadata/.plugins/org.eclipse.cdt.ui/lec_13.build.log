@@ -1,0 +1,10 @@
+00:26:11 **** Incremental Build of configuration Debug for project lec_13 ****
+make -j12 all 
+arm-none-eabi-size   lec_13.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9220	     20	   1804	  11044	   2b24	lec_13.elf
+Finished building: default.size.stdout
+ 
+
+00:26:12 Build Finished. 0 errors, 0 warnings. (took 551ms)
+
